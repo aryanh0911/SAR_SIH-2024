@@ -4,7 +4,7 @@
 
 
 <section class="py-10">
-	<div class="px-6 w-fit mx-auto">
+	<div class="px-6 mx-auto">
         <div class="container mx-auto">
             <div class="image-container rounded-xl overflow-hidden relative">
                 <img src="/Images/Hero-images/earth.png" alt="" class="object-cover h-full w-full" />
